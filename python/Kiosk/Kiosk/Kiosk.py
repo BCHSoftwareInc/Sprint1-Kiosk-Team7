@@ -1,15 +1,19 @@
 print("What is your name?")
 name = input()
 print(name)
+//ask their name//
 print("What is your email?")
 email = input()
 print(email)
+
 print("What is your ORG?")
 ORG = input()
 print(ORG)
+
 print("What is your access level?")
 access = input()
 print(access)
+
 print("+--------------------------------------------------+")
 print("|               APEX ENTERTAINMENT PASS            |")
 print("|--------------------------------------------------|")
