@@ -1,7 +1,7 @@
 print("What is your name?")
 name = input()
 print(name)
-//ask their name//
+
 print("What is your email?")
 email = input()
 print(email)
@@ -21,3 +21,5 @@ print("| ATTENDEE : " + name.ljust(29) + "         |")
 print("| ORG      :"  + ORG.ljust(30)  + "         |")
 print("| CONTACT  :" + email.ljust(30) + "         |")
 print("| Access Level:" + access.ljust(31) + "     |")
+print("| Issuer   : BCH SOFTWARE TEMINAL SYSTEM           |")
+print("|--------------------------------------------------|")
